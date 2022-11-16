@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Бросатель кости</string>
+    <string name="roll_message">Кость брошена!</string>
+    <string name="roll">Бросить</string>
+</resources>
